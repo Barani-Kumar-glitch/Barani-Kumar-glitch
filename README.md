@@ -7,7 +7,6 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 ### 👨‍💻 About Me
 * 🔭 **Current Project:** Building **Spotter**, a comprehensive fitness and health-tracking application.
 * 🌱 **Current Learning:** Deepening my knowledge of **JavaScript** and advanced **Full-Stack** patterns.
-* ⚡ **Fun Fact:** I have a very specific design soul—I’m a huge fan of "rubbish red" and black themes with gritty, bold typography.
 * 💬 **Ask me about:** Django, Database Design, and Fitness Tech.
 
 ---
@@ -18,12 +17,11 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 * **Backend:** Python (Django), C, Java
 * **Frontend:** HTML5, CSS3, Bootstrap
 * **Database:** PostgreSQL, SQL
-* **Problem Solving:** C++
+* **Problem Solving:** C++(intermediate)
 
 **Tools & Platforms**
 * **Version Control:** Git & GitHub
 * **Design:** UI/UX Design Principles
-* **Other:** Data Analysis, ServiceNow Architectural Planning
 
 ---
 
@@ -45,7 +43,7 @@ A dedicated fitness companion featuring calorie calculators, personalized weight
 
 ### 📫 Connect with Me
 * **GitHub:** [@Barani-Kumar-glitch](https://github.com/Barani-Kumar-glitch)
-* **Location:** Tamil Nadu, India
+* **Email:** boss002racer@gmail.com 
 
 ---
 
