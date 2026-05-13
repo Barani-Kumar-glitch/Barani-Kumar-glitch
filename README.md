@@ -14,10 +14,10 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 ### 🛠 Tech Stack
 
 **Languages & Core**
-* **Backend:** Python (Django), C, Java
+* **Backend:** Python (Django)
 * **Frontend:** HTML5, CSS3, Bootstrap
 * **Database:** PostgreSQL, SQL
-* **Problem Solving:** C++(intermediate)
+* **Problem Solving:** C++(Intermediate),Java(Beginner),Python(Beginner)
 
 **Tools & Platforms**
 * **Version Control:** Git & GitHub
