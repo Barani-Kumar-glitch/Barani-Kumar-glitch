@@ -5,7 +5,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 ---
 
 ### 👨‍💻 About Me
-* 🔭 **Current Project:** Building **Spotter**, a comprehensive fitness and health-tracking application.
+* 🔭 **Current Project:** Built **Spotter**, a comprehensive fitness, health-tracking application and Fintess AI Chat.
 * 🌱 **Current Learning:** Deepening my knowledge of **JavaScript** and advanced **Full-Stack** patterns.
 * 💬 **Ask me about:** Django, Database Design, and Fitness Tech.
 
