@@ -32,11 +32,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 #### [Spotter](https://github.com/Barani-Kumar-glitch)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.
 
-#### Food Ordering Application
-A full-stack project designed to streamline the food delivery experience, focusing on seamless user flow and efficient database management.
 
-#### Laptop Request Catalog (ServiceNow)
-Architected the data flow and technical requirements for a streamlined hardware procurement system.
 
 ---
 
