@@ -30,7 +30,8 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 #### [Spotter](https://github.com/Barani-Kumar-glitch)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.
 
-
+#### [Project Showcase Portal](https://github.com/Barani-Kumar-glitch)
+Project management system designed to streamline IT service workflows by bridging the gap between administrative project tracking and client engagement. It provides a centralized hub for managing project lifecycles, financial data, and client requests through distinct, secure portals.
 
 ---
 
