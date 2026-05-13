@@ -50,9 +50,7 @@ A dedicated fitness companion featuring calorie calculators, personalized weight
 ---
 
 ### 📊 GitHub Stats
-![Barani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barani-Kumar-glitch&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barani-Kumar-glitch&layout=compact&theme=dark)
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
+![](https://github-readme-stats.vercel.app/api?username=Barani-Kumar-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Barani-Kumar-glitch&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Barani-Kumar-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
