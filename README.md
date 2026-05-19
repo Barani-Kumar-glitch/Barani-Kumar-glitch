@@ -27,7 +27,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 
 ### 🚀 Featured Projects
 
-#### [Spotter](https://spotter-1-ukhq.onrender.com/)
+#### [Spotter](https://web-production-cf13b.up.railway.app/)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.Integrated the Spotter AI for more Convinent 
 
 #### [Project Showcase Portal](https://github.com/Barani-Kumar-glitch/Project-Showcase-Portal)
