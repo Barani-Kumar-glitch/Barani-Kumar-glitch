@@ -27,8 +27,11 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 
 ### 🚀 Featured Projects
 
-#### [Spotter](https://web-production-cf13b.up.railway.app/)
+#### [Portfolio](https://bk-protfolio.netlify.app/)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.Integrated the Spotter AI for more Convinent 
+
+#### [Spotter](https://web-production-cf13b.up.railway.app/)
+My Porfolio has Info of my all GitHub in it . The Focused Objective of Creating the Portfolio is to Share Knowledge of How much i know about the UI/UX Design and AI Prompting Style
 
 #### [Project Showcase Portal](https://github.com/Barani-Kumar-glitch/Project-Showcase-Portal)
 Project management system designed to streamline IT service workflows by bridging the gap between administrative project tracking and client engagement. It provides a centralized hub for managing project lifecycles, financial data, and client requests through distinct, secure portals.
