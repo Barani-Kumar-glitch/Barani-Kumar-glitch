@@ -33,7 +33,7 @@ My Porfolio has Info of my all GitHub in it . The Focused Objective of Creating 
 #### [Spotter](https://spotter-4030.onrender.com/)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.Integrated the Spotter AI for more Convinent
 
-#### [Project Showcase Portal](https://github.com/Barani-Kumar-glitch/Project-Showcase-Portal)
+#### [Project Showcase Portal](https://project-showcase-portal.onrender.com/)
 Project management system designed to streamline IT service workflows by bridging the gap between administrative project tracking and client engagement. It provides a centralized hub for managing project lifecycles, financial data, and client requests through distinct, secure portals.
 
 ---
