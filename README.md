@@ -30,7 +30,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 #### [Portfolio](https://bk-protfolio.netlify.app/)
 My Porfolio has Info of my all GitHub in it . The Focused Objective of Creating the Portfolio is to Share Knowledge of How much i know about the UI/UX Design and AI Prompting Style 
 
-#### [Spotter](https://spotter-fqcq.onrender.com/)
+#### [Spotter](https://spotter-4030.onrender.com/)
 A dedicated fitness companion featuring calorie calculators, personalized weight loss/gain plans, and interactive workout routines. Built with a robust Django backend and a custom-styled frontend.Integrated the Spotter AI for more Convinent
 
 #### [Project Showcase Portal](https://github.com/Barani-Kumar-glitch/Project-Showcase-Portal)
