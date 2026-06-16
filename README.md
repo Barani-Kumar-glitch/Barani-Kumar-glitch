@@ -25,7 +25,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuin
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Click the links to view the project on live)
 
 #### [Portfolio](https://bk-protfolio.netlify.app/)
 My Porfolio has Info of my all GitHub in it . The Focused Objective of Creating the Portfolio is to Share Knowledge of How much i know about the UI/UX Design and AI Prompting Style 
