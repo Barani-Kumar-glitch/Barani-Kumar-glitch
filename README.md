@@ -1,6 +1,6 @@
 <h1 align="center">Barani Kumar S</h1>
 
-A passionate **Full-Stack Developer** and **UI/UX enthusiast** currently pursuing a Bachelor of Engineering in Computer Science. I specialize in building functional, aesthetically bold applications and solving complex problems through efficient code.
+A passionate **Full-Stack Developer** and **UI/UX enthusiast** completed a Bachelor of Engineering in Computer Science. I specialize in building functional, aesthetically bold applications and solving complex problems through efficient code.
 
 ---
 
