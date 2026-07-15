@@ -28,7 +28,7 @@ A passionate **Full-Stack Developer** and **UI/UX enthusiast** completed a Bache
 ### 🚀 Featured Projects 
 (Click the links to view the project on live)
 
-#### [Portfolio](https://bk11-portfolio.netlify.app/)
+#### [Portfolio](https://baranikumar-portfolio.netlify.app/)
 My Porfolio has Info of my all GitHub in it . The Focused Objective of Creating the Portfolio is to Share Knowledge of How much i know about the UI/UX Design and AI Prompting Style 
 
 #### [Spotter](https://spotter-4030.onrender.com/)
